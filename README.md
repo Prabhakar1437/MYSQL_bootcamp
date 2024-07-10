@@ -1,1 +1,1 @@
-In this Bootcamp I completed MYSQL from bigneer to Advanced Level.
+In this Bootcamp, I completed MYSQL from beginner to Advanced Level.
